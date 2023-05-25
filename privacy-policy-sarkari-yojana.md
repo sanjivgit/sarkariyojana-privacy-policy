@@ -71,9 +71,13 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 ### Sources of the information :
 Narega Official Website   = https://www.nrega.nic.in/
+
 Uidai(Aadhar) Official Website = https://uidai.gov.in/en/my-aadhaar/get-aadhaar.html
+
 Jharkhand PDS Official Website = https://aahar.jharkhand.gov.in/secc-cardholders/search-ration#r
+
 Jharkhand Land Records Official Website = https://jharbhoomi.jharkhand.gov.in/
+
 and All Respective Websites
 
 DISCLAIMER: This is an unofficial App. We do not represent the government entity. All copyright and trademarks are owned by their respective owners. The information in this app are collected from around the web, if we are in breach of copyright, please let us know and it will be removed as soon as possible.
